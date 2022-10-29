@@ -16,6 +16,13 @@ body {
 
 header {
   padding: 75px 0;
+
+  opacity: 0;
+  transform: translateY(-100px);
+  animation: appear 0.8s forwards;
+
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .card {
