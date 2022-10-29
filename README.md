@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido durante a fase de aquecimento do evento <strong>NL
 
 ![preview](./.github/preview.png)
 
-## 🛠️ Tecnologias
+## 💻 Tecnologias
 - HTML e CSS
 - JavaScript
 
